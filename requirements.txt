@@ -1,0 +1,2 @@
+dash==2.9.3  # or the latest version
+plotly==5.0.0  # or the latest version
